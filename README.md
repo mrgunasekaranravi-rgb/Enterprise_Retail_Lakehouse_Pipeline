@@ -8,23 +8,9 @@ The solution follows the Medallion Architecture (Bronze, Silver, and Gold layers
 
 ## Architecture
 
-Source CSV Files
-      |
-      v
-Bronze Layer
-(Raw Data Ingestion)
-      |
-      v
-Silver Layer
-(Data Cleaning & Transformation)
-      |
-      v
-Gold Layer
-(Business Aggregations)
-      |
-      v
-Analytics / Reporting
+The solution follows a production-style Medallion Architecture with Bronze, Silver, and Gold layers, supported by incremental processing, data quality validation, audit logging, and parameterized orchestration.
 
+![Enterprise Retail Lakehouse Architecture](images/Enterprise%20Retail%20Lakehouse%20Pipeline%282%29.png)
 ## Technologies Used
 
 - Databricks
