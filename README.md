@@ -1,5 +1,7 @@
 # Enterprise Retail Lakehouse Pipeline
 
+[![Python CI](https://github.com/mrgunasekaranravi-rgb/Enterprise_Retail_Lakehouse_Pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/mrgunasekaranravi-rgb/Enterprise_Retail_Lakehouse_Pipeline/actions/workflows/ci.yml)
+
 ## Project Overview
 
 This project demonstrates an end-to-end enterprise-style Retail Data Engineering pipeline built using Databricks and Apache Spark.
